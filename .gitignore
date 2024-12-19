@@ -1,7 +1,3 @@
-CPP
-Python
-Java
-
 .vscode
 
 input.txt
@@ -9,10 +5,4 @@ output.txt
 
 *.exe
 
-temp
-
-helper.hpp
-
-main.cpp
-main.py
-main.js
+.archive
